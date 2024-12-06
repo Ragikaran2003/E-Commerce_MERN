@@ -1,0 +1,14 @@
+backend 
+    - npm init -y
+    - npm i nodemon     (node js restart package)
+    - change package.json to start with nodemon instead of node
+    - npm i express
+    - npm i dotenv
+    - npm i mongoose
+    - npm i cors
+
+
+frontend
+    - npm i create-react-app
+    - npm i react-router-dom
+    - npm i react-toastify       (A toast notification library for React for displaying small, non-intrusive messages to the user)
